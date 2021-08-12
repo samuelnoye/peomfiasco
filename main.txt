@@ -1,0 +1,18 @@
+                                   POEM FIASCO
+1.  git checkout HEAD road-not-taken.txt
+
+3. git checkout -- oven-bird.txt
+
+5.  git diff fire-and-ice.txt
+
+6. git add .
+
+7.  git reset HEAD -- fire-and-ice.txt
+
+10. git add .
+
+11. git commit -am "Changes in the files"
+
+12. git revert HEAD
+
+13.  git checkout HEAD filename
